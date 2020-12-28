@@ -1,0 +1,13 @@
+WASD - move , everyone knows that right?
+1,2 - switch weapons (when you start the game you must equip the weapon yourself)
+F - basic knife attack
+Q - secundary knife attack
+T - Inspect weapon
+R - reload , duh
+G - grenade , (FIRE IN THE HOLE!1!!)
+alt + f4 - close game
+
+Bugs:
+If you want to reload lighting fast just press the 1 or 2 depending on the weapon
+You want to fly in space? Sit on a barell and shoot it !
+
